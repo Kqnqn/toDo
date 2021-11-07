@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/%7BGithub-toDo%7D/static/css/main.c226e182.chunk.css",
+    "main.js": "/%7BGithub-toDo%7D/static/js/main.a819dea0.chunk.js",
+    "main.js.map": "/%7BGithub-toDo%7D/static/js/main.a819dea0.chunk.js.map",
+    "runtime-main.js": "/%7BGithub-toDo%7D/static/js/runtime-main.677ac3a4.js",
+    "runtime-main.js.map": "/%7BGithub-toDo%7D/static/js/runtime-main.677ac3a4.js.map",
+    "static/js/2.c26a22f6.chunk.js": "/%7BGithub-toDo%7D/static/js/2.c26a22f6.chunk.js",
+    "static/js/2.c26a22f6.chunk.js.map": "/%7BGithub-toDo%7D/static/js/2.c26a22f6.chunk.js.map",
+    "index.html": "/%7BGithub-toDo%7D/index.html",
+    "static/css/main.c226e182.chunk.css.map": "/%7BGithub-toDo%7D/static/css/main.c226e182.chunk.css.map",
+    "static/js/2.c26a22f6.chunk.js.LICENSE.txt": "/%7BGithub-toDo%7D/static/js/2.c26a22f6.chunk.js.LICENSE.txt",
+    "static/media/deveram.8a39c3ef.mp3": "/%7BGithub-toDo%7D/static/media/deveram.8a39c3ef.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.677ac3a4.js",
+    "static/js/2.c26a22f6.chunk.js",
+    "static/css/main.c226e182.chunk.css",
+    "static/js/main.a819dea0.chunk.js"
+  ]
+}
